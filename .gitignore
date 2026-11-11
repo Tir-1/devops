@@ -1,0 +1,5 @@
+*.iso
+*.vdi
+*qcow2
+infra/node1/user-data.txt
+infra/node2/user-data.txt
